@@ -1,0 +1,69 @@
+﻿<Window x:Class="ex.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ex.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Background="#f0f0f0" Height="40">
+                <TextBlock x:Name="txtUserRole" VerticalAlignment="Center" Margin="10" FontWeight="Bold" Width="200"/>
+                <Button Content="Выйти" Click="Logout_Click" Margin="5"/>
+            </StackPanel>
+
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="5" Background="#e0e0e0" Height="35">
+                <TextBlock Text="Поиск: " VerticalAlignment="Center" Margin="5,0"/>
+                <TextBox x:Name="txtSearch" Width="300" VerticalAlignment="Center"/>
+                <Button Content="Сброс" Margin="5,0" Width="60"/>
+            </StackPanel>
+
+            <TabControl x:Name="mainTabControl" SelectionChanged="TabControl_SelectionChanged">
+                <TabItem Header="Продукты">
+                    <DockPanel>
+                        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="5">
+                            <Button Content="Добавить" Click="AddProduct_Click" Width="80"/>
+                            <Button Content="Изменить" Click="EditProduct_Click" Width="80" Margin="5,0"/>
+                            <Button Content="Удалить" Click="DeleteProduct_Click" Width="80"/>
+                        </StackPanel>
+                        <DataGrid x:Name="dgProducts" AutoGenerateColumns="False" SelectionMode="Single" CanUserAddRows="False">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Артикул" Binding="{Binding Article}" Width="200"/>
+                                <DataGridTextColumn Header="Название" Binding="{Binding Name}" Width="200"/>
+                                <DataGridTextColumn Header="Еденица измерения" Binding="{Binding Unit}" Width="150"/>
+                                <DataGridTextColumn Header="Цена" Binding="{Binding Price, StringFormat=C}" Width="80"/>
+                                <DataGridTextColumn Header="Поставщик" Binding="{Binding Supplier}" Width="200"/>
+                                <DataGridTextColumn Header="Производитель" Binding="{Binding Manufacturer}" Width="200"/>
+                                <DataGridTextColumn Header="Категория" Binding="{Binding Category}" Width="200"/>
+                                <DataGridTextColumn Header="Скидка" Binding="{Binding Discount}" Width="200"/>
+                                <DataGridTextColumn Header="Описание" Binding="{Binding Description}" Width="200"/>
+                                <DataGridTextColumn Header="Обложка" Binding="{Binding Image}" Width="100"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </DockPanel>
+                </TabItem>
+
+                <TabItem Header="Заказы">
+                    <DockPanel>
+                        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="5">
+                            <Button Content="Добавить" Click="AddOrder_Click" Width="80"/>
+                            <Button Content="Изменить" Click="EditOrder_Click" Width="80" Margin="5,0"/>
+                            <Button Content="Удалить" Click="DeleteOrder_Click" Width="80"/>
+                        </StackPanel>
+                        <DataGrid x:Name="dgOrder" AutoGenerateColumns="False" SelectionMode="Single" CanUserAddRows="False">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="50"/>
+                                <DataGridTextColumn Header="Артикул" Binding="{Binding Article}" Width="150"/>
+                                <DataGridTextColumn Header="Дата выдачи" Binding="{Binding Ddate, StringFormat=dd.MM.yyyy}" Width="100"/>
+                                <DataGridTextColumn Header="Пункт выдачии" Binding="{Binding Address.Name}" Width="150"/>
+                                <DataGridTextColumn Header="Пользователь" Binding="{Binding User.Name}" Width="150"/>
+                                <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="80"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </DockPanel>
+                </TabItem>
+            </TabControl>
+        </DockPanel>
+    </Grid>
+</Window>

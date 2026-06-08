@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\services\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:services\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\views\\orderform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:views\\orderform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\views\\productform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:views\\productform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\views\\productform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:views\\productform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\views\\orderform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:views\\orderform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|c:\\users\\prince\\desktop\\exam trening\\cpp\\ex\\ex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DB78100-0336-4D9E-95B0-413CC9AB200E}|ex.csproj|solutionrelative:ex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Views\\OrderForm.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\OrderForm.xaml.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Views\\OrderForm.xaml.cs",
+              "RelativeToolTip": "Views\\OrderForm.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T18:13:21.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderForm.xaml",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Views\\OrderForm.xaml",
+              "RelativeDocumentMoniker": "Views\\OrderForm.xaml",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Views\\OrderForm.xaml",
+              "RelativeToolTip": "Views\\OrderForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-08T16:56:02.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductForm.xaml",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Views\\ProductForm.xaml",
+              "RelativeDocumentMoniker": "Views\\ProductForm.xaml",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Views\\ProductForm.xaml",
+              "RelativeToolTip": "Views\\ProductForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-08T16:57:03.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:19:57.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:01:44.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataServices.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Services\\DataServices.cs",
+              "RelativeDocumentMoniker": "Services\\DataServices.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Services\\DataServices.cs",
+              "RelativeToolTip": "Services\\DataServices.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBAAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:25:52.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Services\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Services\\AppDbContext.cs",
+              "RelativeToolTip": "Services\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:27:48.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:36:29.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Views\\ProductForm.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ProductForm.xaml.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Views\\ProductForm.xaml.cs",
+              "RelativeToolTip": "Views\\ProductForm.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAEwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:56:00.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-08T16:59:29.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:24:29.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Models\\Address.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\Models\\Address.cs",
+              "RelativeToolTip": "Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:00:40.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T18:49:11.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-08T18:51:46.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ex",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\ex.csproj",
+              "RelativeDocumentMoniker": "ex.csproj",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\exam trening\\cpp\\ex\\ex.csproj",
+              "RelativeToolTip": "ex.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-08T17:27:01.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
